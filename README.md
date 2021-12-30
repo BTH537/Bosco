@@ -1,4 +1,4 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+#### HOW TO DEPLOY ?? [` SUBSCRIBE BTH MODS `](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ) 
 
 
 
@@ -22,9 +22,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+918891903813?text=Hello%20P3P3%20BTH...SER⚡️%20boi%20ഉയിർ⚡️❤"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
@@ -62,7 +62,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## `FOR TERMUX`
 
 * Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
+* First fork this repo and change session in <a href="https://github.com/BTH537/Bosco/edit/master/README.md">Denis.json</a> ,Then follow these commands ✅
 * NOTE : U HAVE CLONE YOUR FORKED REPO , NOT MINE REPO
 
 
@@ -79,7 +79,7 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/BTH537/Bosco/edit/master/README.md 
 ```
 ```
 cd Bosco
@@ -111,10 +111,10 @@ you can contact us
 ```
 
 # Thanks to
-* 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
-* [`𝙺𝚁𝙸𝚉 𝚂𝙸𝚁`](https://github.com/KANNANSIR)
-* [`𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`](https://github.com/pepesir)
-* [`𝙰𝙲𝙷𝚄 𝚂𝙸𝚁`](https://github.com/ACHUSIR8)
-* [`𝙱𝙰𝙸𝙻𝙴𝚈𝚂`](https://github.com/adiwajshing/Baileys)
+* FARK BROTHERS❤
+* [SUSBCRIBE`](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
+* [`JOIN`](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu)
+* [`FOLLOW`](https://instagram.com/_.steve_____?utm_medium=copy_link)
+* [`PUB CYBER DON`](https://github.com/adiwajshing/Baileys)
 
 
